@@ -1,1 +1,1 @@
-ICPS is short for intelligent collaborative planning system
+# ICPS is short for Intelligent Collaborative Planning System
